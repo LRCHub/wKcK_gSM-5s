@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "MAKAFUKA",
+  "base_artist": "Radwimps",
+  "createdAt": "2025-12-16T15:51:48.997134Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Makafuka",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_Makafuka_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Makafuka",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/02_Makafuka_Radwimps.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MAKAFUKA",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_MAKAFUKA_RADWIMPS.txt"
+    }
+  ]
+}
